@@ -4,8 +4,14 @@
         <description><![CDATA[Seven Journeys]]></description>
         <link>https://thegrid.ai/sevenjourneys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 07:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 07:29:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sevenjourneys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/sevenjourneys/0585fdef-df88-4b2d-8599-b96555155968/index.html</link>
+            <guid isPermaLink="false">0585fdef-df88-4b2d-8599-b96555155968</guid>
+            <pubDate>Wed, 24 Feb 2016 07:29:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Don't be afraid. </p>]]></description>
@@ -19,13 +25,6 @@
             <link>https://thegrid.ai/sevenjourneys/1a96fed7-d388-4251-9ffa-0e46781ce6db/index.html</link>
             <guid isPermaLink="false">1a96fed7-d388-4251-9ffa-0e46781ce6db</guid>
             <pubDate>Wed, 24 Feb 2016 06:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>You seek answers. You want a purpose and a point to it all. To know it all. To have a purpose. You say "What can I do to improve my life? What can I do to improve myself?" You look for a task to do that will change things, that will move you forward and make everything OK.</p>]]></description>
-            <link>https://thegrid.ai/sevenjourneys/0585fdef-df88-4b2d-8599-b96555155968/index.html</link>
-            <guid isPermaLink="false">0585fdef-df88-4b2d-8599-b96555155968</guid>
-            <pubDate>Wed, 24 Feb 2016 07:17:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

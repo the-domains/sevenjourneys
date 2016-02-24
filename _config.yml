@@ -1,4 +1,4 @@
-name: SevenJourneys
+name: Seven Journeys
 favicon: null
 layout_spectrum: 0.7201187598984689
 typography_spectrum: 0.5531521968077868
@@ -23,7 +23,7 @@ color:
     - '#FBB9BF'
     - '#E376B7'
   brandStrength: 0.8442570944316685
-  lightness: 0.1991699137724936
+  lightness: 0.5
   saturation: 0.44433136959560215
   rhythmicContrast: 0.12729386053979397
 purpose: []
